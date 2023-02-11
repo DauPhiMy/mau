@@ -1,4 +1,4 @@
-var coursesStr = 'HTML & CSS, JavaScript, ReactJS';
+var coursesStr = ['HTML & CSS'];
+var my = ['ahihi','ahaha','ahohoho']
 
-// Expected results
-console.log(typeof coursesStr) 
+console.log(my.slice(1,2))
