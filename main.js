@@ -1,3 +1,4 @@
-const myString = 'mydeptrai'
+var coursesStr = 'HTML & CSS, JavaScript, ReactJS';
 
-console.log(myString.length);
+// Expected results
+console.log(typeof coursesStr) 
